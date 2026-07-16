@@ -178,15 +178,28 @@ Model used:
 
 ---
 
-## Screenshots
+# Screenshots
 
-Add screenshots of:
+## Frontend
 
-- Home Screen
-- Log Interaction Form
-- AI Chat
-- Swagger API
-- PostgreSQL Interaction Logging
+![Frontend](front.png)
+
+Shows the React-based AI-First CRM interface, including:
+- HCP Interaction Form
+- AI Chat Interface
+- AI Response Panel
+
+---
+
+## Backend
+
+![Backend](back.png)
+
+Shows the FastAPI backend, including:
+- Swagger API Documentation
+- AI Chat Endpoint
+- Log Interaction Endpoint
+- PostgreSQL Integration
 
 ---
 
